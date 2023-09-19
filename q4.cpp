@@ -1,3 +1,8 @@
+4. Test the validity of the following argument using truth table.
+Premise: If I go to the mall, I will buy new jeans
+Premise: If I buy new jeans, I will buy a shirt to go with it.
+Conclusion: If I go to the mall, I will buy a shirt.
+
 #include<iostream>
 using namespace std;
 
