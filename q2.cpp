@@ -1,4 +1,9 @@
- #include<iostream>
+2. Use a truth table to test the validity of the following argument using truth table.
+If you are a hound dog, then you howl at the moon.
+You don't howl at the moon.
+Therefore, you aren't a hound dog.
+
+#include<iostream>
 using namespace std;
 
 bool logicaland(bool x, bool y) {
