@@ -1,4 +1,10 @@
- #include<iostream>
+3. Test the validity of the following argument using truth table.
+I will buy a new goat or a used Yugo.
+If I buy both a new goat and a used Yugo, I will need a loan.
+I bought a used Yugo and I don't need a loan.
+Therefore, I didn't buy a new goat.
+
+#include<iostream>
 using namespace std;
 
 bool logicaland(bool x, bool y) {
